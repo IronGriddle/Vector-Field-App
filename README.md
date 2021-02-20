@@ -22,7 +22,7 @@ Right click to pan
 
 ## Vector Field Settings
 
-Parameters are X Y Z. Most major math operators are also supported.
+Parameters are X Y Z. Most major math operations are also supported.
 
 ![Tutorial_VectorFieldInput](https://user-images.githubusercontent.com/74552247/108580499-f139ac80-72e8-11eb-9826-b32b186e89bb.png)
 
