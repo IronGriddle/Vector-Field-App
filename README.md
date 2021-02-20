@@ -1,7 +1,7 @@
 # Vector Field Desktop App
 ![Tutorial_VectorField](https://user-images.githubusercontent.com/74552247/108580905-e6801700-72ea-11eb-8fd1-a35f890262af.png)
 
-This app was created for visualizing 3D vector fields in space.
+This app was created for visualizing 3D vector fields in space. (and partly for Calc 3)
 Made Using Unity's HDRP.
 
 ## Installation
