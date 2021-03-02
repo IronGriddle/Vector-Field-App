@@ -7,7 +7,9 @@ Made using Unity's High Definition Render Pipeline and B83's math parser.
 
 ## Installation
 
-Download this repository, and run 
+Download this repository (Upper left code button)
+Extract from .zip
+Navigate to builds, and run:
 ```bash
 VectorFields HDRP.exe
 ```
