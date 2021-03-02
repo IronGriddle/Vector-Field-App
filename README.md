@@ -3,7 +3,7 @@
 
 This app was created for visualizing 3D vector fields in space. (and partly for Calc 3)
 
-Made Using Unity's HDRP and B83's parser.
+Made using Unity's High Definition Render Pipeline and B83's math parser.
 
 ## Installation
 
