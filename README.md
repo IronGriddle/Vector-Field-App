@@ -7,7 +7,7 @@ Made using Unity's High Definition Render Pipeline and B83's math parser.
 
 ## Installation
 
-Download this repository (Upper left code button)
+Download this repository (Upper green button)
 
 Extract from .zip
 
