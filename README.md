@@ -14,11 +14,8 @@ VectorFields HDRP.exe
 
 ## Camera Controls
 
-WASD
-
-QE - (Up and Down)
-
-Right click to pan
+Right Click to orbit around field
+Scroll Wheel to zoom in and out (Only works in perspective mode)
 
 ## Vector Field Settings
 
