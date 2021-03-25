@@ -5,7 +5,7 @@ This app was created for visualizing 3D vector fields in space. (and partly for 
 
 Made using Unity's High Definition Render Pipeline and B83's math parser.
 
-# Important
+# Important!
 Requires a GPU to run
 
 ## Installation
